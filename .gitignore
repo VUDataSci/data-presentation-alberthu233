@@ -1,0 +1,14 @@
+*.csv
+/.history
+*.cpg
+*.dbf
+*.prj
+*.sbn
+*.shx
+*.shp
+*.gpkg
+*.zip
+*.geojson
+*.xml
+*.html
+*.png
